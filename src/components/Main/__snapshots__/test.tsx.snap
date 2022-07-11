@@ -3,7 +3,7 @@
 exports[`<Main /> should render the heading 1`] = `
 <main>
   <h2>
-    React Avançado
+    Testando Husky
   </h2>
 </main>
 `;

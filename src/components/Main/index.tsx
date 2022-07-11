@@ -1,7 +1,7 @@
 export function Main() {
   return (
     <main>
-      <h2>React Avançado</h2>
+      <h2>Testando Husky</h2>
     </main>
   )
 }
