@@ -1,7 +1,7 @@
 export function Main() {
   return (
     <main>
-      <h2>Testando Husky</h2>
+      <h1>Testando Husky</h1>
     </main>
   )
 }
